@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ The\ main\ driver\ of\ the\ program.\ This\ file\ will\ create\ the\ game,\ create\ the\ two\ agents,\r\n\ and\ create\ the\ window\ for\ the\ game.\ After\ that,\ Connect4Frame\ runs\ everything.\r\n\ \r\n\ You\ should\ only\ modify\ this\ class\ to\ change\ which\ agents\ are\ playing.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

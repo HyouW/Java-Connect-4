@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Connect4Column
+comment0.text=\r\n\ A\ single\ column\ in\ a\ Connect\ 4\ game.\ A\ column\ stores\ a\ number\ of\ individual\ slots.\r\n\ \r\n\ You\ should\ not\ modify\ this\ class,\ but\ you\ will\ need\ to\ use\ methods\ within\ it.\r\n
+comment1.params=height
+comment1.target=Connect4Column(int)
+comment1.text=\r\n\ Creates\ a\ new\ Connect4Column\ with\ a\ given\ height.\r\n\ \r\n\ Your\ agent\ will\ not\ need\ to\ use\ this\ method.\r\n\ \r\n\ @param\ height\ the\ height\ of\ the\ column.\r\n
+comment2.params=column
+comment2.target=Connect4Column(Connect4Column)
+comment2.text=\r\n\ Creates\ a\ copy\ of\ the\ given\ Connect4Column.\r\n\ \r\n\ Your\ agent\ will\ not\ need\ to\ use\ this\ method.\r\n\ \r\n\ @param\ column\ the\ column\ to\ copy.\r\n
+comment3.params=i
+comment3.target=Connect4Slot\ getSlot(int)
+comment3.text=\r\n\ Returns\ a\ single\ Connect4Slot\ from\ the\ column.\r\n\ \r\n\ Your\ agent\ WILL\ need\ to\ use\ this\ method.\r\n\ \r\n\ @param\ i\ the\ Connect4Slot\ to\ retrieve.\r\n\ @return\ the\ Connect4Slot\ at\ that\ index.\r\n
+comment4.params=
+comment4.target=boolean\ getIsFull()
+comment4.text=\r\n\ Checks\ if\ the\ column\ is\ full.\r\n\ \r\n\ Your\ agent\ WILL\ need\ to\ use\ this\ method.\r\n\ \r\n\ @return\ true\ if\ the\ column\ is\ full,\ false\ otherwise.\r\n
+comment5.params=
+comment5.target=int\ getRowCount()
+comment5.text=\r\n\ Returns\ the\ number\ of\ rows\ in\ the\ column.\r\n\ \r\n\ Your\ agent\ WILL\ need\ to\ use\ this\ method.\r\n\ \r\n\ @return\ the\ number\ of\ rows\ in\ the\ column.\r\n
+numComments=6
