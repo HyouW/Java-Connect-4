@@ -17,3 +17,4 @@ Connect 4 is a turn by turn game played between 2 players. The objective is to c
 ```
 git clone https://github.com/HyouW/Java-Connect-4.git
 ```
+2. Run the project in the BlueJ IDE
